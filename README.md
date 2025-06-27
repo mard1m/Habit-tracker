@@ -2,7 +2,7 @@
 
 ## Welcome to Habit Tracker!
 
-Habit Tracker is a powerful, user-friendly application designed to help you build and maintain positive daily and weekly habits. Whether you want to exercise more, read regularly, stay hydrated, or call your loved ones, our application makes habit tracking simple and motivating.
+Habit Tracker is a powerful, user-friendly application designed to help you build and maintain positive daily and weekly habits. Whether you want to exercise more, read regularly, stay hydrated, or call your loved ones, application makes habit tracking simple and motivating.
 
 ## What Makes Habit Tracker Special?
 
@@ -29,7 +29,7 @@ Habit Tracker is a powerful, user-friendly application designed to help you buil
 ## How It Works
 
 ### The Science Behind Habit Formation
-Our application is built on proven habit formation principles:
+Application is built on proven habit formation principles:
 - **Consistency**: Track your habits daily or weekly
 - **Visual Progress**: See your streaks and completion counts
 - **Immediate Feedback**: Get instant confirmation when you complete a habit
@@ -128,7 +128,7 @@ Enter your choice (1-7):
 3. **Select Frequency**: 
    - Choose `1` for daily habits (like meditation, exercise)
    - Choose `2` for weekly habits (like calling family, cleaning)
-4. **Confirmation**: See "✅ Habit 'Meditation' created successfully!"
+4. **Confirmation**: See "Habit 'Meditation' created successfully!"
 
 ### Tracking Your Progress
 
